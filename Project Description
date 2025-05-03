@@ -1,1 +1,6 @@
-This project is aiment to conduct data processing, EDA, and PCA analysis
+This project explores how different factors influence a person's decision to accept a digital coupon while driving. 
+As part of my Capstone in Integrative Data Analytics, I am working with a real-world dataset containing over 12,000 records.
+So far, I have cleaned and prepared the data, handled missing values, and created new features such as income group and travel status. 
+I have completed exploratory data analysis to identify trends and applied Principal Component Analysis (PCA) to reduce dimensionality while
+keeping most of the meaningful information. The goal of this project is to understand consumer behavior in mobile settings and prepare the
+data for future predictive modeling.
